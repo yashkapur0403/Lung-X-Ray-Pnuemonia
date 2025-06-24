@@ -6,8 +6,8 @@ This project is focused on classifying lung X-ray images into **Pneumonia** or *
 The dataset is organized as:
 
 data/
-├── train/
-│ ├── NORMAL/
+├── train/ \n
+│ ├── NORMAL/ \n
 │ └── PNEUMONIA/
 ├── test/
 │ ├── NORMAL/
