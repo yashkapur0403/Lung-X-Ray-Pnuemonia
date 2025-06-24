@@ -5,4 +5,13 @@ This project is focused on classifying lung X-ray images into **Pneumonia** or *
 
 The dataset is organized as:
 
-<pre lang="markdown"><code>``` data/ ├── train/ │ ├── NORMAL/ │ └── PNEUMONIA/ ├── test/ │ ├── NORMAL/ │ └── PNEUMONIA/ └── val/ ├── NORMAL/ └── PNEUMONIA/ ``` </code></pre>
+data/
+├── train/
+│ ├── NORMAL/
+│ └── PNEUMONIA/
+├── test/
+│ ├── NORMAL/
+│ └── PNEUMONIA/
+└── val/
+├── NORMAL/
+└── PNEUMONIA/
